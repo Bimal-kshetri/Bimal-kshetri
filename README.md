@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Bimal-kc/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bimal-kc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Bimal-kshetri/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bimal-kshetri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Bimal-kc/github-readme-stats"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimal-kc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Bimal-kc/github-readme-stats"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimal-kc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Bimal-kshetri/github-readme-stats"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimal-kshetri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Bimal-kshetri/github-readme-stats"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimal-kshetri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/bimal-kc/github-readme-activity-graph"><img alt="bimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bimal-kc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bimal-kshetri/github-readme-activity-graph"><img alt="bimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bimal-kshetri&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,7 +60,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bimal-kc-993707216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/bimal-kshetri-993707216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/bimal.kshetri.3111/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/bimalkh80249679"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/bimal.311/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -70,6 +70,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bimal-kc">
+    <img src="https://komarev.com/ghpvc/?username=bimal-kshetri">
 </a>
-<a href="https://github.com/bimal-kc?tab=followers"><img src="https://img.shields.io/github/followers/bimal-kc?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
+<a href="https://github.com/bimal-kshetri?tab=followers"><img src="https://img.shields.io/github/followers/bimal-kshetri?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
